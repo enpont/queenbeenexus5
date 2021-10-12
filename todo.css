@@ -1,0 +1,27 @@
+h1, h2{
+    color:blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    font-size:15px;
+}
+
+body{
+    background-color:lightgoldenrodyellow;
+}
+
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:indianred;
+}
+
+head{
+    font-size:42px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: crimson;
+}
+
+h3{
+    font-size: 21px;
+    color:lightsteelblue;
+}
